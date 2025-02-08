@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi there! 👋 I'm Mahaveer Kumawat<br>🚀 Full Stack Developer | Web Development Instructor<br>🔧 Building Scalable Web Apps | Teaching & Mentoring<br><br>💻 About Me<br>I'm a passionate Full Stack Developer with 2.5 years of experience in building dynamic, scalable web applications and mentoring aspiring developers. My expertise lies in React, Node.js, Express, and MongoDB, and I love working on real-world projects that make an impact.<br><br>
+📍 India | 📧 monukumaw8@gmail.com | 📞 6378112026 | 🌐 [add later] | 🔗 https://www.linkedin.com/in/mahaveer-kumawat/ | 🐙 https://github.com/mahaveerkumawat
+
+
+Professional Summary
+
+Experienced Full Stack Developer & Web Development Instructor with 2.5 years of expertise in building modern, scalable web applications and mentoring aspiring developers. Proficient in React, Node.js, Express, and MongoDB. Adept at designing RESTful APIs, optimizing database performance, and implementing secure authentication systems. Passionate about delivering high-quality, end-to-end web solutions and empowering students through hands-on learning.
 
 
 ## 🌐 Socials:
