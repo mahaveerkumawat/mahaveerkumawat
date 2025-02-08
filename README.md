@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm [Your Name]<br>🚀 Full Stack Developer | Web Development Instructor<br>🔧 Building Scalable Web Apps | Teaching & Mentoring<br><br>💻 About Me<br>I'm a passionate Full Stack Developer with 2.5 years of experience in building dynamic, scalable web applications and mentoring aspiring developers. My expertise lies in React, Node.js, Express, and MongoDB, and I love working on real-world projects that make an impact.<br><br>
+Hi there! 👋 I'm Mahaveer Kumawat<br>🚀 Full Stack Developer | Web Development Instructor<br>🔧 Building Scalable Web Apps | Teaching & Mentoring<br><br>💻 About Me<br>I'm a passionate Full Stack Developer with 2.5 years of experience in building dynamic, scalable web applications and mentoring aspiring developers. My expertise lies in React, Node.js, Express, and MongoDB, and I love working on real-world projects that make an impact.<br><br>
 
 
 ## 🌐 Socials:
