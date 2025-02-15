@@ -1,4 +1,4 @@
-📍 India | 📧 monukumaw8@gmail.com | 📞 6378112026 | 🌐 [add later] | 🔗 https://www.linkedin.com/in/mahaveer-kumawat/ | 🐙 https://github.com/mahaveerkumawat
+📍 India | 📧 monukumaw8@gmail.com | 📞 6378112026 | 🔗 https://www.linkedin.com/in/mahaveer-kumawat/ | 🐙 https://github.com/mahaveerkumawat
 
 
 Professional Summary
